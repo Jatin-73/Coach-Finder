@@ -1,4 +1,4 @@
-# coach-finder
+# Coach Finder App With Firebase Auth In Vue3
 
 ## Project setup
 
@@ -23,3 +23,7 @@ npm run build
 ```
 npm run lint
 ```
+
+### Visit Site
+
+https://61cbd8d586686a48092e6677--quizzical-wing-1f552d.netlify.app
