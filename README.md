@@ -1,4 +1,4 @@
-# Coach Finder App With Firebase Auth In Vue3
+# Coach Finder
 
 ## Project setup
 
